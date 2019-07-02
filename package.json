@@ -1,0 +1,15 @@
+{
+  "name": "Roshi",
+  "description": "Discord bot for moving pictures from one to another channel s.o.",
+  "version": "1.0.0",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.5.1",
+    "request": "2.81.0"
+  }
+}
